@@ -28,3 +28,4 @@ plt.imshow(output_tf.numpy().squeeze(), cmap='gray')
 plt.title('Результат') 
  
 plt.show() 
+
